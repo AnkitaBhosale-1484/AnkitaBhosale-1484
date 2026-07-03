@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br> Weather Temperature Prediction using Machine Learning  <br><br>👯 I’m looking to collaborate on  <br>Web Development projects, Python-based applications, and beginner-friendly open-source projects  <br><br>🤝 I’m looking for help with  <br> React.js, Machine Learning optimization, and Cloud deployment (AWS)  <br><br>🌱 I’m currently learning  <br>React.js, Machine Learning, AI Fundamentals, and Cloud Computing (AWS Basics)  <br><br>💬 Ask me about  <br>Python, C, Java (Basics), HTML, CSS, PHP, MySQL, Machine Learning, and Streamlit  <br><br>⚡ Fun fact  <br>I enjoy converting academic projects into real-world applications 🚀<br>
 
 
 ## 🌐 Socials:
